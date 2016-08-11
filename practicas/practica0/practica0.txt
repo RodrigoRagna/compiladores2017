@@ -1,4 +1,10 @@
 ejerccio #1
+Àrblo fuente del comentario
+Comentario padre en SHA1
+Informaciòn del autor
+Informacion del comentario
+Mensaje del comentario
+Un encabezado terminado en nul con la palabra nul. La palabra commit entra y la longitud en bytes de la informacion superior.
 
 ejerccio #2
 
