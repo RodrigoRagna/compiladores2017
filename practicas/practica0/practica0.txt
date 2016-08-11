@@ -1,0 +1,21 @@
+ejerccio #1
+
+ejerccio #2
+
+git checkout (hash) - regresa a culquier commit que aya escho
+
+
+ ejercccio #3
+
+ las ramas sirven para trbajar en el mismo proyecto de manera independiente cada colaborador 
+pone una rama  su rama que viene de la master 
+el master sirve 
+ comandos de laas ramas 
+
+git checkout -b  (nombre rama ) - crear rama 
+
+git bracnch (nombre rama) - cambiar a rama 
+
+git merge master - mezcla la rama donde estas con el master
+
+git branch -d (nombre rama ) - elimina la rama  
