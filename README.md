@@ -5,7 +5,7 @@ TlacuacheSoft
 Rivera Paz Rodrigo
 
 Godínez Galicia Luis Alberto
+pumasfutluis@ciencias.unam.mx
 
-Valdés Galicia Alejandro - ale.valdes@ciencias.unam.mx
-
+Valdés Galicia Alejandro
 
