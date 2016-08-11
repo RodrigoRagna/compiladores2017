@@ -1,5 +1,5 @@
 ejerccio #1
-Àrblo fuente del comentario
+Àrbol fuente del comentario
 Comentario padre en SHA1
 Informaciòn del autor
 Informacion del comentario
