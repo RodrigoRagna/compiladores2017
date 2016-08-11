@@ -6,5 +6,6 @@ Rivera Paz Rodrigo
 
 Godínez Galicia Luis Alberto
 
-Valdés Galicia Alejandro
+Valdés Galicia Alejandro - ale.valdes@ciencias.unam.mx
+
 
