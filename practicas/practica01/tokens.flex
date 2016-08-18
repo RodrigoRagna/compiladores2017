@@ -19,5 +19,7 @@ SIGNOS		= 		[^$|_|\n|\b|+|-|*|/|if|else|for|switch|int|float|char|String|double|
 
 ({SIGNO}{CERO} | {NNDIGIT}{DIGIT}*)	| ({CERO} | {NNDIGIT}{DIGIT}*)							{System.out.println("ENTERO("+ yytext() +")");}
 ({SIGNO} ({CERO}{PUNTO}{NNDIGIT}{DIGIT}* | {NNDIGIT}{DIGIT}*{PUNTO}{NNDIGIT}{DIGIT}*))|({CERO}{PUNTO}{NNDIGIT}{DIGIT}* | {NNDIGIT}{DIGIT}*{PUNTO}{NNDIGIT}{DIGIT}*)		{System.out.println("REAL("+ yytext() +")");}
-({DIGIT}|{LETRAS}|LETRASMINUS|SIGNOS)*														{System.out.println("IDENTIFICADOR("+ yytext() +")");}
-
+({DIGIT}|{LETRAS}|LETRASMINUS|SIGNOS)*														{System.out.println("IDENTIFICADOR("+ yytext() 
++")");}
+[^]																							{System.out.println("NO RECONOCIDO("+ yytext() 
++")");}
