@@ -48,8 +48,3 @@ la cerradura epsilon es el de todos los resultados que alcanzan la transiciones 
 
 4- continuar hasta eliminación de trasiciones multiples con la funcion mover
 
-ejerccio #4
-
-ejerccio #5 
-
-	ejerccio#6
