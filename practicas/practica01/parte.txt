@@ -1,0 +1,18 @@
+ejerccio #1
+
+
+consiste en leer el texto del codigo fuente cacater por caracter e ir generando tokens 
+	por palabras reservadas  , puntos , comas 
+el analisador lexico lee los caracteres que componen el texto del programa y sumnistra tokens al analizador sintactico 
+
+
+ejerccio #2 
+
+ejerccio #3 
+
+
+ejerccio #4
+
+ejerccio #5 
+
+ejerccio#6
