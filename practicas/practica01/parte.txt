@@ -1,20 +1,20 @@
 ejerccio #1
 
 
-consiste en leer el texto del codigo fuente cacater por caracter e ir generando tokens 
+consiste en leer el texto del codigo fuente caracter por caracter e ir generando tokens 
 	por palabras reservadas  , puntos , comas 
 
 
 
 ejerccio #2 
 el analisador lexico lee los caracteres que componen el texto del programa y sumnistra tokens al analizador sintactico 
-los separa por espacios , putos y comas por ejemplo
+los separa por espacios , puntos y comas por ejemplo
 
 ejerccio #3 
 
 pimero hay dos reglas pasarlo a afnd 
 -concatenacion 
-ejmplo 
+ejemplo 
  
 <estado 1> con a <estado2>
 <estado 3> con b <estado4> 
@@ -48,8 +48,3 @@ la cerradura epsilon es el de todos los resultados que alcanzan la traciones eps
 
 4- continuar hasta eliminacion de traciones multiples con la funcion mover
 
-ejerccio #4
-
-ejerccio #5 
-
-	ejerccio#6
