@@ -1,14 +1,14 @@
 ejerccio #1
 
 
-consiste en leer el texto del codigo fuente caracter por caracter e ir generando tokens 
+consiste en leer el texto del codigo fuente cacater por caracter e ir generando tokens 
 	por palabras reservadas  , puntos , comas 
 
 
 
 ejerccio #2 
-el analisador lexico lee los caracteres que componen el texto del programa y sumnistra tokens al analizador sintactico 
-los separa por espacios , puntos y comas por ejemplo
+el analisador léxico lee los caracteres que componen el texto del programa y sumnistra tokens al analizador sintáctico 
+los separa por espacios , putos y comas, por ejemplo
 
 ejerccio #3 
 
@@ -20,7 +20,7 @@ ejemplo
 <estado 3> con b <estado4> 
 =  <estado 1> con a  <estado 2> con epsilon <estado 3>con b <estado 4>
 
--sleccion 
+-selección 
 ejemplo
 <estado 1> con a <estado2>
 <estado 3> con b <estado4> 
@@ -40,11 +40,16 @@ epsicon va de <estado 2> a <estado 1>
  algoritmo:
 
 1-construir cerraduras epsilon 
-la cerradura epsilon es el de todos los resultados que alcanzan la traciones epsilon desde un esatado o estados, se denomina como s'
- una cerradura epsilon de un estado simpre contien al mismo estado 
+la cerradura epsilon es el de todos los resultados que alcanzan la transiciones epsilon desde un esatado o estados, se denomina como s'
+ una cerradura epsilon de un estado siempre contien al mismo estado 
 
-2-eliminacion de traciones multiples "funcion mover", estados que no son alcanzablas desde el nuevo esatado del conjunto cerradura dcon cada unso de los caracteres simples 
+2-eliminación de traciones multiples "funcion mover", estados que no son alcanzables desde el nuevo esatado del conjunto cerradura con cada unso de los caracteres simples 
 3 construir la cerradura de los estados que surgen de la funcion mover con cada uno de los caracteres
 
-4- continuar hasta eliminacion de traciones multiples con la funcion mover
+4- continuar hasta eliminación de trasiciones multiples con la funcion mover
 
+ejerccio #4
+
+ejerccio #5 
+
+	ejerccio#6
