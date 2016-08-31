@@ -1,0 +1,4 @@
+1.Dirigido por tablas ya que el reconocimiento es lineal 
+2.Se tiene que cambir todo el autómata y por lo tanto la tabla en la que se basa el analizador dirigido por tablas
+3.Sólo lee una vez cada caracter en cada línea del texto
+4. Dirigido por tablas, porque lleva el registro de los estados y las transiciones en arreglos		
