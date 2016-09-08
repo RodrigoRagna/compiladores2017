@@ -1,4 +1,10 @@
-ab
-ababc
-abc
-abcab
+x = 5;
+y = 0;
+while(x < 10){
+	if(x%2 == 1){
+		y = x + x;
+	}else{
+		y = x*x;	
+		x++;
+	}
+}
