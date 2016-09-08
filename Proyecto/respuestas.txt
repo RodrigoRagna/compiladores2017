@@ -1,0 +1,18 @@
+
+1.
+Jflex reconoce poca cantidad de contexto y lo hace de modo que reconoce una 
+expresión sí le sigue algo que tenga un contexto.
+
+2.
+Existen varias opciones de depuración en jflex, por ejemplo, -p perf-report 
+que genera un reporte, -t trace corre como sí fuera un autómata generando mensajes, 
+-s nodefault si el scanner encuentra algo que no coincide con las reglas cierra con 
+un error, -w nowarm que suprime mensaje de advertencias, -v verbose da un resumen 
+de estadisticas y warn que da advertencias dado a que asocia cosas con reglas.
+
+4.
+Se puede leer más fácil el código así, por lo tanto se puede entender mejor, 
+por lo que se podría escribir menos, pero no necesariamente. Si facilita la 
+identación el reconocimiento de bloques, ya que con la identación se puede 
+distinguir fácilmente en que bloque se encuentra uno.
+
