@@ -1,0 +1,10 @@
+La situación, cuando ni un shift o una reducción son válidos es cuando hay un 
+conflicto shift/reduce. Para resolver el conflicto se tiene que ir escogiendo 
+entre los shift, a menos que se indique lo contratio por declaraciones de 
+precedencia de operadores.
+
+La situación, cuando hay dos o más reglas aplicandose a la misma secuencia de 
+entrada es cuando hay un conflicto de reduce/reduce. Básicamente es por la 
+ambigüedad que se produce el problema y se arregla escogiendo la regla que 
+aparece por primera vez en la gramática, eventualmente se tiene que eliminar 
+la ambigüedad de la gramática para poder resolver bien el conflicto.
